@@ -24,5 +24,7 @@ public class RegraDeTres {
         //double Xfinal =  X / valorC;
 
         System.out.printf("O valor de X é %.2f%n", X);
+
+        scanner.close();
     }
 }

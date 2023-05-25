@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java-regra-de-tres.iml" filepath="$PROJECT_DIR$/java-regra-de-tres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-operacoes-aritmeticas.iml" filepath="$PROJECT_DIR$/java-operacoes-aritmeticas.iml" />
     </modules>
   </component>
 </project>
