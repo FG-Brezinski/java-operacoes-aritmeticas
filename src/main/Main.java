@@ -19,7 +19,7 @@ public class Main {
         int opcaoEscolhida = scanner.nextInt();
 
         if (opcaoEscolhida == 1) {
-            Calculadora.calcular();
+
         } else if(opcaoEscolhida == 2) {
             RegraDeTres.calcularRegraDeTres();
         } else {
